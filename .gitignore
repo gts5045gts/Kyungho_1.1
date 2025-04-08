@@ -60,3 +60,9 @@ buildNumber.properties
 .classpath
 
 # End of https://www.toptal.com/developers/gitignore/api/elisp,java,maven
+
+# *.properties
+config/*.properties
+
+
+#우왁!!

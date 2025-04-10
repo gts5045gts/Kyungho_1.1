@@ -14,13 +14,13 @@
 
 <h1>test</h1>
 
-<<<<<<< HEAD
+
 
 <h1>what the hell</h1>
-=======
+
 <h1>HDD111</h1>
 
->>>>>>> branch 'master' of https://github.com/gts5045gts/Kyungho_1.1.git
+
 <h1>github update123</h1>
 <h1>github update12</h1>
 <h1>github update1</h1>
